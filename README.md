@@ -27,7 +27,7 @@ Data - BI
         <td>Data analyst</td>
       </tr>
       <tr>
-        <td><b>Alondra Ferra</b></td>
+        <td><b>Alondra Ferra Muñiz</b></td>
         <td>Data analyst</td>
       </tr>
     </tbody>
