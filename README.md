@@ -10,10 +10,31 @@ Data - BI
 
 -
 
-## Coequipers:
 
-- Alondra Ferra - Data Analyst | alondra.ferra@gmail.com | México
-- Jesus Joaquín Cerón Melgoza - Data Analyst | jjcm@exatec.tec.mx | México
+## 📌 Integrantes
+
+<div align="letf">
+
+<table>
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>Rol</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Jesús Joaquín Cerón Melgoza</b></td>
+      <td>Data analyst</td>
+    </tr>
+      <td><b>Alondra Ferra</b></td>
+      <td>Data analyst</td>
+    </tr>
+    </tr>    
+  </tbody>
+</table>
+
+</div>
 
 ## Team Leader:
 
