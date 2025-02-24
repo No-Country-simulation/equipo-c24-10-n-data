@@ -36,7 +36,7 @@ Data - BI
 
 ## Team Leader:
 
-- Brayan Córdova
+Brayan Córdova
 
 ## Conjunto de datos utilizado:
 
