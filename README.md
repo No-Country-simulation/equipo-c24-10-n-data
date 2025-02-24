@@ -8,7 +8,7 @@ Data - BI
 
 ## Nombre del proyecto:
 
--
+*
 
 
 ## 📌 Integrantes
@@ -47,11 +47,11 @@ El conjunto de datos de - fue descargado el día -, y su última actualización 
 ## Archivo CSV usado en Google Colab
 
 El siguiente enlace permite descargar el archivo original que se utilizó en Google Colab:
--
+*
 
 ## Descripción de los pasos de exploración, preparación y selección de los datos (etapa previa a la visualización de datos)
 
--
+*
 
 ## Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
@@ -63,16 +63,16 @@ Hemos agrupado los - indicadores elegidos para que el dashboard interactivo en T
 
 Las secciones del dashboard interactivo son las siguientes:
 
--
+*
 
 ## Enlace para acceder al dashboard interactivo en Tableau Public:
 
--
+*
 
 ## Enlace para acceder a las diapositivas de presentación del dashboard interactivo (Nombre del proyecto):
 
--
+*
 
 ## El siguiente enlace contiene información en inglés sobre los indicadores que se encuentran en el conjunto de datos:
 
--
+*
