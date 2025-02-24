@@ -38,26 +38,26 @@ Data - BI
 
 Brayan Córdova
 
-## Conjunto de datos utilizado:
+## 📖Conjunto de datos utilizado:
 
 Fuente: 
 
 El conjunto de datos de - fue descargado el día -, y su última actualización fue el día -. El archivo original contiene - columnas, sin embargo, se ha decidido delimitar el análisis de datos a - columnas de datos y a - indicadores.
 
-## Archivo CSV usado en Google Colab
+## 📖Archivo CSV usado en Google Colab
 
 El siguiente enlace permite descargar el archivo original que se utilizó en Google Colab:
 *
 
-## Descripción de los pasos de exploración, preparación y selección de los datos (etapa previa a la visualización de datos)
+## ➡️Descripción de los pasos de exploración, preparación y selección de los datos (etapa previa a la visualización de datos)
 
 *
 
-## Explicación adicional de los pasos de exploración, preparación y selección de los datos
+## ➡️Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
 El archivo original contiene - filas y el peso del archivo es de -. 
 
-## Agrupación de indicadores
+## ➡️Agrupación de indicadores
 
 Hemos agrupado los - indicadores elegidos para que el dashboard interactivo en Tableau cuente con un número reducido de secciones.
 
