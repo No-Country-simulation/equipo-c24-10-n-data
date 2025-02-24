@@ -65,14 +65,14 @@ Las secciones del dashboard interactivo son las siguientes:
 
 *
 
-## Enlace para acceder al dashboard interactivo en Tableau Public:
+## 🚀Enlace para acceder al dashboard interactivo en Tableau Public:
 
 *
 
-## Enlace para acceder a las diapositivas de presentación del dashboard interactivo (Nombre del proyecto):
+## 🚀Enlace para acceder a las diapositivas de presentación del dashboard interactivo (Nombre del proyecto):
 
 *
 
-## El siguiente enlace contiene información en inglés sobre los indicadores que se encuentran en el conjunto de datos:
+## 📌El siguiente enlace contiene información en inglés sobre los indicadores que se encuentran en el conjunto de datos:
 
 *
