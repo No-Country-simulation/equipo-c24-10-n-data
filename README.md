@@ -24,11 +24,11 @@ Data - BI
     <tbody>
       <tr>
         <td><b>Jesús Joaquín Cerón Melgoza</b></td>
-        <td>Data analyst</td>
+        <td>Analista de datos (Data analyst) </td>
       </tr>
       <tr>
         <td><b>Alondra Ferra Muñiz</b></td>
-        <td>Data analyst</td>
+        <td>Analista de datos (Data analyst) </td>
       </tr>
     </tbody>
   </table>
