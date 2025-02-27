@@ -6,12 +6,7 @@ equipo-c24-10-n-data
 
 Data - BI
 
-## Nombre del proyecto:
-
-*
-
-
-## 📌 Integrantes
+## 👥 Integrantes
 
 <div align="left">
   <table>
@@ -38,13 +33,25 @@ Data - BI
 
 Brayan Córdova
 
-## 📖Conjunto de datos utilizado:
+## Nombre del proyecto:
 
-Fuente: 
+
+
+## 📄Descripción del proyecto:
+
+
+
+## 📖Conjuntos de datos utilizados:
+
+Fuente 1: 
 
 El conjunto de datos de - fue descargado el día -, y su última actualización fue el día -. El archivo original contiene - columnas, sin embargo, se ha decidido delimitar el análisis de datos a - columnas de datos y a - indicadores.
 
-## 📖Archivo CSV usado en Google Colab
+Fuente 2: 
+
+El conjunto de datos de - fue descargado el día -, y su última actualización fue el día -. El archivo original contiene - columnas, sin embargo, se ha decidido delimitar el análisis de datos a - columnas de datos y a - indicadores.
+
+## 📖Archivos CSV usados en Google Colab
 
 El siguiente enlace permite descargar el archivo original que se utilizó en Google Colab:
 *
