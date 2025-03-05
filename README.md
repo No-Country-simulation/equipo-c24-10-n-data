@@ -72,7 +72,7 @@ Finalmente se ejecutó un bloque de código para comprobar que el archivo con el
 
 ## ➡️Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
-El archivo original contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 2##### filas y un peso de 17621 KB. 
+El archivo original contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 225130 filas y un peso de 17621 KB. 
 
 ## ➡️Agrupación de indicadores
 
