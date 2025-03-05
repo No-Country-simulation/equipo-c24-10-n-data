@@ -45,7 +45,7 @@ Brayan Córdova
 
 Fuente 1: 
 
-El conjunto de datos de la Organización Panamericana de la Salud (PAHO por sus siglas en inglés) fue descargado el día 3 de marzo de 2025, y su última actualización fue el día 14 de enero de 2025. El archivo original contiene 27 columnas, sin embargo, se ha decidido delimitar el análisis de datos a 5 columnas de datos y a 158 indicadores.
+El conjunto de datos de la Organización Panamericana de la Salud (PAHO por sus siglas en inglés) fue descargado el día 3 de marzo de 2025, y su última actualización fue el día 14 de enero de 2025. El archivo original contiene 27 columnas, sin embargo, se ha decidido delimitar el análisis de datos a 5 columnas de datos y a 150 indicadores.
 
 Fuente 2: 
 
@@ -72,11 +72,11 @@ Finalmente se ejecutó un bloque de código para comprobar que el archivo con el
 
 ## ➡️Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
-El archivo original contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 225402 filas y un peso de 17650 KB. 
+El archivo original contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 2##### filas y un peso de 17621 KB. 
 
 ## ➡️Agrupación de indicadores
 
-Hemos agrupado los 158 indicadores elegidos para que el dashboard interactivo en Tableau cuente con un número reducido de secciones.
+Hemos agrupado los 150 indicadores elegidos para que el dashboard interactivo en Tableau cuente con un número reducido de secciones.
 
 Las secciones con sus respectivos indicadores se encuentran en el siguiente documento:
 
