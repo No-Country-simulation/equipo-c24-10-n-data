@@ -53,11 +53,17 @@ El conjunto de datos de - fue descargado el día -, y su última actualización 
 
 ## 📖Archivos CSV usados en Google Colab
 
-El siguiente enlace permite descargar el archivo original que se utilizó en Google Colab:
-*
+Los siguientes enlaces permiten descargar los archivos originales utilizados en Google Colab:
+
+Archivo 1:
+https://drive.google.com/file/d/1FeNg3pMyvOutFTSC6rJP3czoCFm_qPIo/view?usp=sharing
+
+Archivo 2:
+
 
 ## ➡️Descripción de los pasos de exploración, preparación y selección de los datos (etapa previa a la visualización de datos)
 
+Conjunto de datos 1
 El primer paso fue escribir un bloque de código dentro de una celda en un archivo de Google Colab denominado “notebook”. El bloque de código correspondiente al primer paso contiene líneas de código para importar la librería pandas y permitir utilizar archivos, una función que permite subir archivos CSV a Google Colab, se utilizó el método df.info() para obtener un resumen del archivo CSV que permite mostrar la cantidad de valores no nulos de cada columna y se usó un ciclo con instrucciones que permitir ver los valores únicos y la cantidad de valores únicos de cada columna. El archivo original que se utilizó al ejecutar el bloque de código escrito en la celda se llama "PAHO-Core-Indicators-2024-20241126".
 
 El segundo paso fue modificar el bloque de código de la celda del primer paso para que mediante instrucciones se seleccionaran 5 columnas relevantes para el análisis y la visualización de datos. El bloque de código del segundo paso además contiene instrucciones que permiten guardar el dataframe con las columnas seleccionadas. Cuando el bloque de código de la celda del segundo paso se terminó de ejecutar se obtuvo un archivo con el nombre "selected columns.csv".
@@ -66,9 +72,18 @@ El tercer paso fue desarrollar líneas de código que permitieran imprimir una l
 
 El cuarto paso fue reemplazar el valor 'Bolivia (Estado Plurinacional de)' de la columna 'spatial_dim_es' por Bolivia para que el software Tableau Public pudiera considerar a este país en una visualización de mapa. Cuando el bloque de código de la celda del cuarto paso se terminó de ejecutar se obtuvo un archivo con el nombre "corrected data.csv".
 
-...
+El quinto paso fue determinar las instrucciones para ordenar alfabéticamente los valores únicos de la columna 'nombre_indicador' y contar cuántos valores únicos hay en esa columna.
+
+El sexto paso fue determinar el identificador (id) de cada uno de los valores únicos (indicadores) de la columna "nombre_indicador".
+
+El séptimo paso fue modificar el formato de los identificadores del paso anterior para no demorarse en la definición repetitiva y manual del formato de la selección de indicadores.
+
+El octavo paso fue la definición de la lista de IDs de los indicadores seleccionados a importar en un archivo CSV.
 
 Finalmente se ejecutó un bloque de código para comprobar que el archivo con el nombre "indicadores seleccionados.csv" incluyera los indicadores elegidos.
+
+Conjunto de datos 2
+
 
 ## ➡️Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
