@@ -31,15 +31,15 @@ Data - BI
 
 ## Team Leader:
 
-Brayan Córdova
+<b>Brayan Córdova</b>
 
 ## Nombre del proyecto:
 
-
+<b>Dashboard ENTCO</b>
 
 ## 📄Descripción del proyecto:
 
-
+El <b>Dashboard ENTCO</b> es una herramienta interactiva desarrollada en Tableau que presenta indicadores clave sobre enfermedades no transmisibles, enfermedades crónicas y oncológicas en América. Basado en datos de la Organización Panamericana de la Salud (PAHO), y el Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales el proyecto busca facilitar el acceso a información de calidad para el análisis y la toma de decisiones en el sector salud. A través de una selección y procesamiento cuidadoso de los datos, el dashboard permite visualizar tendencias y patrones relevantes, contribuyendo a una mejor comprensión del panorama epidemiológico en la región.
 
 ## 📖Conjuntos de datos utilizados:
 
