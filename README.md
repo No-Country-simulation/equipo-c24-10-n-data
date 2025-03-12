@@ -49,7 +49,7 @@ El conjunto de datos de la Organización Panamericana de la Salud (PAHO por sus 
 
 Fuente 2: 
 
-El conjunto de datos de - fue descargado el día -, y su última actualización fue el día -. El archivo original contiene - columnas, sin embargo, se ha decidido delimitar el análisis de datos a - columnas de datos y a - indicadores.
+El conjunto de datos de "National Institute of Diabetes and Digestive and Kidney Diseases" fue descargado el día 04 de marzo de 2025, y su última actualización fue el día 08 de abril de 2022. El archivo original contiene 9 columnas, se ha decidido mantener la integridad del dataframe para su abordaje en el presente proyecto.
 
 ## 📖Archivos CSV usados en Google Colab
 
@@ -59,6 +59,7 @@ Archivo 1:
 https://drive.google.com/file/d/1FeNg3pMyvOutFTSC6rJP3czoCFm_qPIo/view?usp=sharing
 
 Archivo 2:
+https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 
 ## ➡️Descripción de los pasos de exploración, preparación y selección de los datos (etapa previa a la visualización de datos)
@@ -84,10 +85,21 @@ Finalmente se ejecutó un bloque de código para comprobar que el archivo con el
 
 Conjunto de datos 2
 
+El primer paso fue escribir un bloque de código dentro de una celda en un archivo de Google Colab denominado “Diabetes equipo-c24-10-n-data.ipynb”. El bloque de código correspondiente al primer paso contiene líneas de código para importar la librería pandas, numpy, matplotlib, seaborn y permitir utilizar archivos con una función que permite subir archivos CSV a Google Colab, se utilizó el método df.info() para obtener un resumen del archivo CSV que permite mostrar la cantidad de valores no nulos de cada columna y se usó un ciclo con instrucciones que permitir ver los valores únicos y la cantidad de valores únicos de cada columna. El archivo original que se utilizó al ejecutar el bloque de código escrito en la celda se llama "diabetes_dataset".
+
+El segundo paso fue seleccionar las 5 columnas iniciales para el análisis y la visualización de datos.
+
+El tercer paso fue generar una lista de las columnas. Tambien se establecio un bucle que permite contar el número de valores únicos de cada columna.
+
+El cuarto paso consiste en el calculo de la cantidad de duplicados del DataFrame usando el método df.duplicated().sum().
+
+No se determino condiciones adicionales necesarias para la lectura de los datos.
+
 
 ## ➡️Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
-El archivo original contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 225130 filas y un peso de 17621 KB. 
+El archivo original del conjunto de datos 1 contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 225130 filas y un peso de 17621 KB. 
+El archivo original del conjunto de datos 2 contiene 9538 filas y el peso del archivo es de 23.87 KB. Los 4 pasos descritos anteriormente permitieron determinar mantener la integridad del dataset original para el abordaje de este proyecto.
 
 ## ➡️Agrupación de indicadores
 
@@ -107,3 +119,4 @@ Las secciones con sus respectivos indicadores se encuentran en el siguiente docu
 ## 📌Los siguientes enlaces contienen información en inglés sobre los indicadores que se encuentran en los conjuntos de datos:
 
 https://opendata.paho.org/en/core-indicators/technical-specifications
+https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
