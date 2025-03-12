@@ -120,4 +120,5 @@ Las secciones con sus respectivos indicadores se encuentran en el siguiente docu
 ## 📌Los siguientes enlaces contienen información en inglés sobre los indicadores que se encuentran en los conjuntos de datos:
 
 https://opendata.paho.org/en/core-indicators/technical-specifications
+
 https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
