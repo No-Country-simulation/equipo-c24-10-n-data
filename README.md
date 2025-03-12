@@ -39,7 +39,11 @@ Data - BI
 
 ## 📄Descripción del proyecto:
 
-El <b>Dashboard ENTCO</b> es una herramienta interactiva desarrollada en Tableau que presenta indicadores clave sobre enfermedades no transmisibles, enfermedades crónicas y oncológicas en América. Basado en datos de la Organización Panamericana de la Salud (PAHO), y el Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales el proyecto busca facilitar el acceso a información de calidad para el análisis y la toma de decisiones en el sector salud. A través de una selección y procesamiento cuidadoso de los datos, el dashboard permite visualizar tendencias y patrones relevantes, contribuyendo a una mejor comprensión del panorama epidemiológico en la región.
+El dashboard ENTCO, desarrollado en Tableau Public, es una herramienta interactiva diseñada para monitorear indicadores clave relacionados con enfermedades no transmisibles, crónicas y oncológicas en América. Este proyecto busca apoyar a hospitales y clínicas, ofreciéndoles información estratégica basada en datos internos y externos para mejorar la calidad y efectividad de los servicios de salud.
+
+Los datos externos juegan un papel esencial al identificar tendencias internacionales, segmentar poblaciones según factores demográficos y analizar la demanda de servicios y recursos. De esta forma, las instituciones de salud pueden anticiparse a las necesidades de los pacientes y optimizar sus procesos.
+
+Este proyecto se basa en dos conjuntos de datos robustos: uno proporcionado por Kaggle y otro de la Organización Panamericana de la Salud, asegurando una base sólida y confiable para la toma de decisiones.
 
 ## 📖Conjuntos de datos utilizados:
 
