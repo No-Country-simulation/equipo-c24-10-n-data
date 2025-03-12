@@ -99,6 +99,7 @@ No se determino condiciones adicionales necesarias para la lectura de los datos.
 ## ➡️Explicación adicional de los pasos de exploración, preparación y selección de los datos
 
 El archivo original del conjunto de datos 1 contiene 327401 filas y el peso del archivo es de 125,631 KB. Los 8 pasos descritos anteriormente permitieron obtener un archivo con 225130 filas y un peso de 17621 KB. 
+
 El archivo original del conjunto de datos 2 contiene 9538 filas y el peso del archivo es de 23.87 KB. Los 4 pasos descritos anteriormente permitieron determinar mantener la integridad del dataset original para el abordaje de este proyecto.
 
 ## ➡️Agrupación de indicadores
