@@ -43,7 +43,7 @@ El dashboard ENTCO, desarrollado en Tableau Public, es una herramienta interacti
 
 Los datos externos juegan un papel esencial al identificar tendencias internacionales, segmentar poblaciones según factores demográficos y analizar la demanda de servicios y recursos. De esta forma, las instituciones de salud pueden anticiparse a las necesidades de los pacientes y optimizar sus procesos.
 
-Este proyecto se basa en dos conjuntos de datos robustos: uno proporcionado por Kaggle y otro de la Organización Panamericana de la Salud, asegurando una base sólida y confiable para la toma de decisiones.
+Este proyecto se basa en dos conjuntos de datos: uno se encuentra en Kaggle y el otro es de la Organización Panamericana de la Salud, asegurando una base sólida y confiable para la toma de decisiones.
 
 ## 📖Conjuntos de datos utilizados:
 
