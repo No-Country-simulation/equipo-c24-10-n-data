@@ -86,7 +86,7 @@ https://drive.google.com/file/d/1GQHTs_nRKksucmf07-p07jirAVuNjzzF/view?usp=shari
 
 ## 🚀Enlace para acceder al dashboard interactivo en Tableau Public:
 
-*
+https://public.tableau.com/app/profile/alondra.ferra/viz/DashboarddeIndicadoresdeEnfermedadesCrnicas/Men
 
 ## 🚀Enlace para acceder a las diapositivas de presentación del dashboard interactivo (ENTCO):
 
