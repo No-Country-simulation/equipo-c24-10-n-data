@@ -43,11 +43,11 @@ El dashboard ENTCO, desarrollado en Tableau Public, es una herramienta interacti
 
 Los datos externos juegan un papel esencial al identificar tendencias internacionales, segmentar poblaciones según factores demográficos y analizar la demanda de servicios y recursos. De esta forma, las instituciones de salud pueden anticiparse a las necesidades de los pacientes y optimizar sus procesos. Este proyecto se basa en el conjunto de datos:de la Organización Panamericana de la Salud.
 
-## 📖Conjunto de datos utilizados:
+## 📖Conjunto de datos utilizado:
 
 El conjunto de datos de la Organización Panamericana de la Salud (PAHO por sus siglas en inglés) fue descargado el día 3 de marzo de 2025, y su última actualización fue el día 14 de enero de 2025. El archivo original contiene 27 columnas, sin embargo, se ha decidido delimitar el análisis de datos a 5 columnas de datos y a 150 indicadores.
 
-## 📖Archivo CSV usados en Google Colab
+## 📖Archivo CSV usado en Google Colab
 
 El siguiente enlace permite descargar el archivo original utilizado en Google Colab:
 
