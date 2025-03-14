@@ -90,7 +90,7 @@ https://public.tableau.com/app/profile/alondra.ferra/viz/DashboarddeIndicadoresd
 
 ## 🚀Enlace para acceder a las diapositivas de presentación del dashboard interactivo (ENTCO):
 
-https://www.canva.com/design/DAGhjhhYrSo/7LJwIoqBtxRckQ4iI_0v-Q/view?utm_content=DAGhjhhYrSo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha60e1d9b8f
+https://www.canva.com/design/DAGhpb9jA7A/W4o4Temd9QVFkeWwIGxJRw/watch?utm_content=DAGhpb9jA7A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea231f584
 
 ## 📌El siguiente enlace contienen información en inglés sobre los indicadores que se encuentran en el conjunto de datos:
 
